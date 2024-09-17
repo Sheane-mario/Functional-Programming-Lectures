@@ -1,0 +1,5 @@
+Hello my name is Sheane Mario Silva. 
+I'm a second year computer science undergraduate at UCSC.
+I'm based on Negombo.
+We are enjoying functional style of programming.
+Byee Byeee.
